@@ -1,0 +1,14 @@
+rohit.mhatre@capgemini.com - might have recording
+aniket.kori@capgemini.com
+
+https://docs.python.org/3.7/tutorial/index.html
+https://docs.python.org/3.7/index.html
+
+
+C:\Python27\Lib\site-packages
+
+https://docs.python.org/3/library/functions.html
+
+
+For python path
+PYTHONPATH 
