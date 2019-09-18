@@ -12,3 +12,26 @@ https://docs.python.org/3/library/functions.html
 
 For python path
 PYTHONPATH 
+
+https://docs.python.org/3/library/exceptions.html
+
+https://www.python.org/dev/peps/pep-0008/
+
+installing any module / external pacakges in python
+like given below
+pip install paramiko 
+
+paramiko
+
+
+install pip - https://bootstrap.pypa.io/get-pip.py 
+python get-pip.py
+
+
+C:\Users\lamudala\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.7
+
+C:\Users\lamudala\AppData\Local\Programs\Python\Python37-32
+
+
+7550197600
+sithiqu.mtech@gmail.com
